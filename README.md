@@ -1,10 +1,4 @@
-https://prnt.sc/jcNj92Hqs2zL
-
-https://prnt.sc/_ScxFsi3kvp6
-
-https://prnt.sc/DUxSPzrw-vX5
-
-https://prnt.sc/Zdft9FxnzO-M
-
-https://prnt.sc/DdSN_xwzFeav
-
+1. list - https://prnt.sc/8vCUGQ92lUDa
+2. get - https://prnt.sc/0BToW8Qf4eP3
+3. add - https://prnt.sc/XS_iPQLOhaJJ
+4. remove - https://prnt.sc/IgdU39LiIt43
