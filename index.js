@@ -35,4 +35,6 @@ async function invokeAction({ action, id, name, email, phone }) {
   }
 }
 
-invokeAction(argv);
+invokeAction(argv)
+  .then(() => console.log("Success"))
+  .catch((error) => console.error(error));
